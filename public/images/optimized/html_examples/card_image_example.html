@@ -1,0 +1,20 @@
+<!-- Responsive Card Image Example -->
+<picture class="card-image">
+    <source media="(max-width: 768px)"
+            srcset="optimized/image-name-mobile.webp"
+            type="image/webp">
+    <source media="(max-width: 768px)"
+            srcset="optimized/image-name-mobile.jpg">
+    <source media="(max-width: 1024px)"
+            srcset="optimized/image-name-tablet.webp"
+            type="image/webp">
+    <source media="(max-width: 1024px)"
+            srcset="optimized/image-name-tablet.jpg">
+    <source srcset="optimized/image-name-desktop.webp"
+            type="image/webp">
+    <img src="optimized/image-name-desktop.jpg"
+         alt="Description"
+         loading="lazy"
+         width="600"
+         height="400">
+</picture>

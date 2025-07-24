@@ -1,0 +1,26 @@
+<!-- Responsive Hero Background Example -->
+<section class="hero">
+    <picture>
+        <source media="(max-width: 768px)"
+                srcset="optimized/hero-name-mobile.webp"
+                type="image/webp">
+        <source media="(max-width: 768px)"
+                srcset="optimized/hero-name-mobile.jpg">
+        <source media="(max-width: 1024px)"
+                srcset="optimized/hero-name-tablet.webp"
+                type="image/webp">
+        <source media="(max-width: 1024px)"
+                srcset="optimized/hero-name-tablet.jpg">
+        <source srcset="optimized/hero-name-desktop.webp"
+                type="image/webp">
+        <img src="optimized/hero-name-desktop.jpg"
+             alt="Hero Description"
+             class="hero-background"
+             width="1920"
+             height="1080">
+    </picture>
+    <div class="hero-content">
+        <h1>Your Title</h1>
+        <p>Your description</p>
+    </div>
+</section>
