@@ -1,0 +1,26 @@
+{
+  "name": "premium-chauffeur-blog",
+  "version": "1.0.0",
+  "description": "Premium Chauffeur luxury travel blog built with Eleventy",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "clean": "rm -rf _site"
+  },
+  "keywords": [
+    "eleventy",
+    "travel",
+    "luxury",
+    "blog",
+    "static-site"
+  ],
+  "author": "Premium Chauffeur",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}

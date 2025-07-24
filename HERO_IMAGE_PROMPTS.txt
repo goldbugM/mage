@@ -1,0 +1,231 @@
+HERO IMAGE PROMPTS FOR PREMIUM CHAUFFEUR TRAVEL BLOG
+========================================================
+
+Total Images Needed: 38
+Recommended Size: 1920x1080 (16:9 ratio)
+Save Location: best blog/src/public/images/
+
+GERMAN DESTINATIONS (9 images)
+==============================
+
+1. BERLIN HERO IMAGE
+Filename: berlin-hero.jpg
+Prompt: Cinematic wide shot of Berlin's Brandenburg Gate at golden hour, with dramatic clouds and warm lighting, luxury black sedan in foreground, professional travel photography style, high-end tourism aesthetic, 16:9 aspect ratio
+
+2. MUNICH HERO IMAGE
+Filename: munich-hero.jpg
+Prompt: Elegant view of Munich's Marienplatz with the New Town Hall, Bavarian architecture, luxury atmosphere, golden hour lighting, premium travel photography, sophisticated composition, 16:9 aspect ratio
+
+3. HAMBURG HERO IMAGE
+Filename: hamburg-hero.jpg
+Prompt: Sophisticated harbor view of Hamburg's Speicherstadt warehouse district at sunset, luxury yacht in foreground, premium travel aesthetic, cinematic lighting, professional photography, 16:9 aspect ratio
+
+4. FRANKFURT HERO IMAGE
+Filename: frankfurt-hero.jpg
+Prompt: Modern skyline of Frankfurt am Main with glass skyscrapers reflecting golden sunset, luxury car on bridge in foreground, premium business travel aesthetic, cinematic composition, 16:9 aspect ratio
+
+5. COLOGNE HERO IMAGE
+Filename: cologne-hero.jpg
+Prompt: Majestic Cologne Cathedral (Kölner Dom) at twilight with Rhine River, luxury atmosphere, dramatic Gothic architecture, premium travel photography, golden hour lighting, 16:9 aspect ratio
+
+6. STUTTGART HERO IMAGE
+Filename: stuttgart-hero.jpg
+Prompt: Elegant Stuttgart cityscape with modern architecture and green hills, luxury automotive theme, premium travel aesthetic, sophisticated lighting, professional photography, 16:9 aspect ratio
+
+7. HEIDELBERG HERO IMAGE
+Filename: heidelberg-hero.jpg
+Prompt: Romantic view of Heidelberg Castle overlooking the Neckar River, charming old town, luxury travel atmosphere, golden hour lighting, premium tourism photography, 16:9 aspect ratio
+
+8. BADEN-BADEN HERO IMAGE
+Filename: baden-baden-hero.jpg
+Prompt: Luxurious spa town of Baden-Baden with elegant Belle Époque architecture, thermal baths, upscale resort atmosphere, premium wellness tourism, sophisticated lighting, 16:9 aspect ratio
+
+9. BLACK FOREST HERO IMAGE
+Filename: black-forest-hero.jpg
+Prompt: Scenic Black Forest landscape with dense evergreen trees, luxury lodge in clearing, premium nature tourism, misty atmospheric lighting, high-end travel photography, 16:9 aspect ratio
+
+EUROPEAN DESTINATIONS (8 images)
+=================================
+
+10. PARIS HERO IMAGE
+Filename: paris-hero.jpg
+Prompt: Iconic Eiffel Tower at sunset with Trocadéro gardens, luxury Parisian atmosphere, golden hour lighting, premium travel photography, sophisticated composition, 16:9 aspect ratio
+
+11. AMSTERDAM HERO IMAGE
+Filename: amsterdam-hero.jpg
+Prompt: Charming Amsterdam canal with historic gabled houses, luxury canal boat, premium travel aesthetic, golden hour reflection on water, sophisticated tourism photography, 16:9 aspect ratio
+
+12. GENEVA HERO IMAGE
+Filename: geneva-hero.jpg
+Prompt: Elegant Lake Geneva with Jet d'Eau fountain and Alps in background, luxury Swiss atmosphere, premium travel photography, sophisticated lighting, 16:9 aspect ratio
+
+13. LUXEMBOURG HERO IMAGE
+Filename: luxembourg-hero.jpg
+Prompt: Sophisticated Luxembourg City with medieval fortifications and modern banking district, luxury European capital atmosphere, premium travel photography, golden hour lighting, 16:9 aspect ratio
+
+14. INTERLAKEN HERO IMAGE
+Filename: interlaken-hero.jpg
+Prompt: Breathtaking Swiss Alps view from Interlaken with snow-capped peaks, luxury mountain resort atmosphere, premium alpine tourism, dramatic lighting, 16:9 aspect ratio
+
+15. DUBROVNIK HERO IMAGE
+Filename: dubrovnik-hero.jpg
+Prompt: Stunning aerial view of Dubrovnik's medieval walls and terracotta roofs with azure Adriatic Sea, luxury Mediterranean atmosphere, premium travel photography, golden hour lighting, 16:9 aspect ratio
+
+16. TIROL HERO IMAGE
+Filename: tirol-hero.jpg
+Prompt: Majestic Austrian Alps in Tirol with luxury ski resort, snow-capped peaks, premium alpine tourism, sophisticated mountain atmosphere, dramatic lighting, 16:9 aspect ratio
+
+17. MONACO HERO IMAGE
+Filename: monaco-hero.jpg
+Prompt: Glamorous Monaco harbor with luxury superyachts and Monte Carlo Casino, premium Mediterranean lifestyle, sophisticated wealth atmosphere, golden hour lighting, 16:9 aspect ratio
+
+AUTOMOTIVE EXPERIENCES (3 images)
+==================================
+
+18. BMW EXPERIENCE HERO IMAGE
+Filename: bmw-hero.jpg
+Prompt: Sleek BMW M-series car at BMW Welt Munich with futuristic architecture, premium automotive luxury, sophisticated showroom atmosphere, professional photography, 16:9 aspect ratio
+
+19. MERCEDES EXPERIENCE HERO IMAGE
+Filename: mercedes-hero.jpg
+Prompt: Elegant Mercedes-Benz luxury sedan at Stuttgart Mercedes Museum, premium automotive heritage, sophisticated German engineering atmosphere, professional lighting, 16:9 aspect ratio
+
+20. PORSCHE EXPERIENCE HERO IMAGE
+Filename: porsche-hero.jpg
+Prompt: Iconic Porsche 911 at Porsche Museum Stuttgart with modern architecture, premium sports car luxury, sophisticated automotive atmosphere, professional photography, 16:9 aspect ratio
+
+THEME PARKS (6 images)
+=======================
+
+21. EUROPA PARK HERO IMAGE
+Filename: europa-park-hero.jpg
+Prompt: Spectacular Europa Park roller coaster with European castle theming, family-friendly luxury atmosphere, premium theme park experience, vibrant colors, 16:9 aspect ratio
+
+22. DISNEYLAND PARIS HERO IMAGE
+Filename: disneyland-paris-hero.jpg
+Prompt: Magical Sleeping Beauty Castle at Disneyland Paris with fireworks, premium Disney luxury experience, enchanting atmosphere, golden hour lighting, 16:9 aspect ratio
+
+23. PHANTASIALAND HERO IMAGE
+Filename: phantasialand-hero.jpg
+Prompt: Immersive Phantasialand themed area with detailed architecture and thrilling rides, premium German theme park experience, sophisticated theming, dramatic lighting, 16:9 aspect ratio
+
+24. LEGOLAND HERO IMAGE
+Filename: legoland-hero.jpg
+Prompt: Colorful LEGOLAND castle and attractions with LEGO brick architecture, family-friendly premium experience, bright cheerful atmosphere, professional photography, 16:9 aspect ratio
+
+25. HEIDE PARK HERO IMAGE
+Filename: heide-park-hero.jpg
+Prompt: Thrilling Heide Park roller coaster with dramatic loops and German countryside, premium adrenaline experience, exciting atmosphere, dynamic composition, 16:9 aspect ratio
+
+26. MOVIE PARK HERO IMAGE
+Filename: movie-park-hero.jpg
+Prompt: Cinematic Movie Park Germany entrance with Hollywood theming and film sets, premium entertainment experience, dramatic movie-style lighting, 16:9 aspect ratio
+
+SHOPPING DESTINATIONS (5 images)
+=================================
+
+27. METZINGEN OUTLET HERO IMAGE
+Filename: metzingen-hero.jpg
+Prompt: Elegant Metzingen Outlet City with luxury brand boutiques and modern architecture, premium shopping experience, sophisticated retail atmosphere, professional photography, 16:9 aspect ratio
+
+28. WERTHEIM VILLAGE HERO IMAGE
+Filename: wertheim-village-hero.jpg
+Prompt: Charming Wertheim Village outlet with traditional German architecture and luxury boutiques, premium shopping destination, elegant atmosphere, golden hour lighting, 16:9 aspect ratio
+
+29. INGOLSTADT VILLAGE HERO IMAGE
+Filename: ingolstadt-village-hero.jpg
+Prompt: Sophisticated Ingolstadt Village outlet with Bavarian-inspired architecture and luxury brands, premium shopping experience, elegant retail atmosphere, 16:9 aspect ratio
+
+30. LA VALLÉE VILLAGE HERO IMAGE
+Filename: la-vallee-village-hero.jpg
+Prompt: Chic La Vallée Village outlet near Paris with French architecture and luxury boutiques, premium shopping destination, sophisticated Parisian atmosphere, 16:9 aspect ratio
+
+31. ROERMOND OUTLET HERO IMAGE
+Filename: roermond-hero.jpg
+Prompt: Modern Roermond Designer Outlet with contemporary Dutch architecture and luxury brands, premium shopping experience, sophisticated retail atmosphere, 16:9 aspect ratio
+
+LUXURY COLLECTIONS (7 images)
+==============================
+
+32. ALPINE RETREATS HERO IMAGE
+Filename: alpine-retreats-hero.jpg
+Prompt: Luxurious alpine chalet with snow-capped mountain peaks, premium ski resort atmosphere, sophisticated mountain luxury, cozy elegant lighting, 16:9 aspect ratio
+
+33. COASTAL ELEGANCE HERO IMAGE
+Filename: coastal-elegance-hero.jpg
+Prompt: Elegant Mediterranean coastline with luxury yacht and pristine beaches, premium coastal lifestyle, sophisticated seaside atmosphere, golden hour lighting, 16:9 aspect ratio
+
+34. SWISS LUXURY PEAKS HERO IMAGE
+Filename: swiss-peaks-hero.jpg
+Prompt: Majestic Swiss mountain peaks with luxury resort and pristine snow, premium alpine experience, sophisticated mountain atmosphere, dramatic lighting, 16:9 aspect ratio
+
+35. ZERMATT PEARL ALPS HERO IMAGE
+Filename: zermatt-hero.jpg
+Prompt: Iconic Matterhorn peak above Zermatt village with luxury ski resort, premium Swiss alpine experience, sophisticated mountain atmosphere, golden hour lighting, 16:9 aspect ratio
+
+36. FRENCH RIVIERA YACHT HERO IMAGE
+Filename: french-riviera-hero.jpg
+Prompt: Glamorous French Riviera with luxury superyacht and azure Mediterranean waters, premium coastal lifestyle, sophisticated seaside elegance, golden hour lighting, 16:9 aspect ratio
+
+37. THEME PARKS ENTERTAINMENT HERO IMAGE
+Filename: theme-parks-collection-hero.jpg
+Prompt: Collage-style composition of various European theme park attractions with castles and roller coasters, premium family entertainment, vibrant exciting atmosphere, 16:9 aspect ratio
+
+38. SHOPPING DESTINATIONS HERO IMAGE
+Filename: shopping-collection-hero.jpg
+Prompt: Elegant luxury shopping street with high-end boutiques and sophisticated architecture, premium retail experience, sophisticated shopping atmosphere, golden hour lighting, 16:9 aspect ratio
+
+IMPLEMENTATION INSTRUCTIONS
+============================
+
+1. Create all 38 images using Google Imagen with the prompts above
+2. Save images as JPG format, 1920x1080 resolution
+3. Upload images to: best blog/src/public/images/
+4. Update each guide's heroImage path in the markdown files:
+
+   Change from: heroImage: "/public/images/default-hero.jpg"
+   Change to: heroImage: "/public/images/[respective-filename].jpg"
+
+5. Run "npm run build" to regenerate the site with new images
+6. Upload the updated _site folder to your web hosting
+
+FILENAME MAPPING
+================
+berlin-guide.md → berlin-hero.jpg
+munich-guide.md → munich-hero.jpg
+hamburg-guide.md → hamburg-hero.jpg
+frankfurt-guide.md → frankfurt-hero.jpg
+cologne-guide.md → cologne-hero.jpg
+stuttgart-guide.md → stuttgart-hero.jpg
+heidelberg-guide.md → heidelberg-hero.jpg
+baden-baden-guide.md → baden-baden-hero.jpg
+black-forest-guide.md → black-forest-hero.jpg
+paris-guide.md → paris-hero.jpg
+amsterdam-guide.md → amsterdam-hero.jpg
+geneva-guide.md → geneva-hero.jpg
+luxembourg-guide.md → luxembourg-hero.jpg
+interlaken-guide.md → interlaken-hero.jpg
+croatian-adriatic-dubrovnik.md → dubrovnik-hero.jpg
+austrian-alps-tirol.md → tirol-hero.jpg
+monaco-port-hercule-casino.md → monaco-hero.jpg
+bmw-experience.md → bmw-hero.jpg
+mercedes-experience.md → mercedes-hero.jpg
+porsche-experience.md → porsche-hero.jpg
+europa-park-guide.md → europa-park-hero.jpg
+disneyland-paris-guide.md → disneyland-paris-hero.jpg
+phantasialand-guide.md → phantasialand-hero.jpg
+legoland-guide.md → legoland-hero.jpg
+heide-park-guide.md → heide-park-hero.jpg
+movie-park-guide.md → movie-park-hero.jpg
+metzingen-outlet-guide.md → metzingen-hero.jpg
+wertheim-village-guide.md → wertheim-village-hero.jpg
+ingolstadt-village-guide.md → ingolstadt-village-hero.jpg
+la-vallee-village-guide.md → la-vallee-village-hero.jpg
+roermond-outlet-guide.md → roermond-hero.jpg
+alpine-retreats.md → alpine-retreats-hero.jpg
+coastal-elegance.md → coastal-elegance-hero.jpg
+swiss-luxury-peaks.md → swiss-peaks-hero.jpg
+zermatt-pearl-alps.md → zermatt-hero.jpg
+french-riviera-yacht.md → french-riviera-hero.jpg
+theme-parks-entertainment.md → theme-parks-collection-hero.jpg
+shopping-destinations.md → shopping-collection-hero.jpg
